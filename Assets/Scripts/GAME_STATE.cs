@@ -1,0 +1,8 @@
+public enum GAME_STATE
+{
+	IDLE,
+	GAME,
+	COMPLETE,
+	SHOP,
+	FAIL
+}
